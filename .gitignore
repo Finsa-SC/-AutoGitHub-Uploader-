@@ -1,0 +1,26 @@
+# Python
+            __pycache__/
+            *.py[cod]
+            *.pyo
+            env/
+            venv/
+            build/
+            develop-eggs/
+            .eggs/
+            *.egg-info/
+            dist/
+        
+            # Node.js
+            node_modules/
+            npm-debug.log
+            yarn-error.log
+            .pnpm-debug.log
+        
+            # Java
+            *.class
+            *.jar
+            *.war
+            *.ear
+        
+            # VSCode
+            .vscode/
